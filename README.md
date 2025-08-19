@@ -1,5 +1,5 @@
-😺 Hi, I'm Francis
-🔍 Currently looking for employment.
+😺 Hi, I'm Francis <br/>
+🔍 Currently looking for employment. <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-dominic-malilay-villalon-4809b81bb) 
