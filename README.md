@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Francis</h1>
 
-<p align="center">
-  <a href="https://fdv.sh">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/francisvillalon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-D8B4FE?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAD1klEQVRYhe2Ve0xbVRzHP%2Bf2QWtftDALFEohgBHGbBxhZoJOmfERxiZGF53Gx5Ysm4kmvhL%2FcjEa4%2BIfPjLjI4uJCS4kE%2F4iC6kGojEbE13VIBvUIQ%2BldK7QcnF9ca9%2FXEf2B7TGIP3H35%2Fnnns%2Bn%2FM733uPYKVqCuyFiwdVwSPAZsDC%2BlYM%2BF4V6jE5Gvn86qAAMBcVefSKvg%2B4aZ2hq5aA7vi87XEIJXVQU2A2ZQY2Cv53bTaaU1WpxFKPsBe6n1EF72wgfKUEol1nNFnfReDJhwAIl7A53YuANT8CLEh5hAMUSnmEA5B3AX3uKWZc5XfS6PFhWg4zdTHA%2BWgcdUMEhBv%2FPZ9xwF%2BHUWhD6vIswf6H%2BTj4C5l1EMhyBILr6l5mn78OgxphPHiML0OTZKRS%2FDtfp3Wd4pOlA3YaGu7CLlSS42%2FwwamTLOq%2BRjrYxR2OZrbd4GVw6FcwN3Hr1ttwChV55gSDE2FUYcfX%2BCSNDgmSQb4ZHiCqrE5Zexu6GnxuC4IMv09%2Fi6wCmSCh2SQqesrK6jEAaiJE1Ho%2F97U8x972F2g0CfTuAzx27%2FPsankCXyrEwhrw7AJiEw6rBCjEl1JU1D9Fi7cQWY6hItBbSrAKQF1gdOAlBqNphLWT3dvupnXHfsp1KvGxV%2Bn6YZos%2FCwCkgmjpCVv2dBGx64j7Nu5l01qWvMzmDBcDWbyNL19H%2FGboqf8lvd5qMoOch%2Fd%2Fb1Ec3wuawsoCVKK9rYuHaCn50U%2BOdVFRBg0aDpB%2BprFUzNv8%2BmZ8yiSAR0RhgOvMCxn23suAfUSMVkBJOwWE7Pj3ZydlbFZHQhUMkthLRcrK5VR7SlDa5qTCk8tJpGTn0VgOcTk3J9a4CqatPPW%2B6kpLdCCOTt6zX%2FAgKf5LfZU2lFiISIZPe6mN%2BmscpDLQVdgth5Z%2FVGKeaWW7TfWY3HdTLXNSYX%2FMK2lLqTMEP2B40wktBYYS57lcMcDFIs5hvo66Ym1st1bg89bzNRIgLn0vxKAdPQcl6w78Jd6ub60mWpXIZIS5scvnqZ34rKWbsNWOh48SpNdIjHxGh9%2BdYZweAZnw258jnpqrRc4OxYiuQZD2JzuHDk146poY0tZJSZljqmLAUYvx1bugoKSPbTVVqHjCtMjxwlG04CEvfJRbvcWgfoHF851Mba0eiD%2FgcB%2FW3m%2Fjv8XkIB4HvlxSUWczqPAz5IE7%2BWLLhBdumRCHjearbUCtmwsnGB8vviQBCDP2%2FYL6N5IeFrKtMNISqcNRZeTiaWTRpPlJ0kSxYALMK0zVwa%2BE4ij8fniQ5krkwsAfwFGo0z5vHYl7QAAAABJRU5ErkJggg%3D%3D)](https://fdv.sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=1B3A5C)](https://www.linkedin.com/in/francisvillalon)
